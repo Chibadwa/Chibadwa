@@ -3,10 +3,10 @@
 
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=muratcankaraca&count_private=true&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=chibadwa&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcankaraca&layout=compact&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chibadwa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠 Technologies & Tools 
